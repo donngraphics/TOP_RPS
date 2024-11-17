@@ -1,3 +1,5 @@
+This is an update to the "Rock Paper Scissors" game. the update will add a UI to the splash page. The user will be able to play the game through buttons, with results be displayed on the splash page as well.
+-----------
 This is the The Odin Project's project: "Rock Paper Scissors" in their Foundations Course.
 I will write the pseudocode here for accountability. 
 
@@ -7,3 +9,4 @@ Create two variables, one for the human score, one for the computer score.
 Create a function named playRound, that compares the human choice vs the computer choice.
 Rework the playRound function as playGame, so that there are 5 rounds played, with scores tallied at the end and a winner declared.
 Rework the code so that the prompt can be called over and over again in the loop, as well as the computer option.
+

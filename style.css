@@ -17,6 +17,32 @@
     font-size: 1.3rem;
 }
 
+button {
+    width: 10em;
+    height: 3em;
+    font-size: 1em;
+    font-weight: 900;
+    /* border: none; */
+}
+
+button#rock {
+
+    background-color: rgb(190, 137, 63);
+    color: rgb(134, 100, 0);
+}
+
+button#paper {
+
+    background-color: rgb(255, 255, 255);
+    color: rgb(134, 134, 134);
+}
+
+button#scissors {
+
+    background-color: rgb(120, 117, 114);
+    color: rgb(61, 61, 61);
+}
+
 body {
     background-color: rgb(62, 7, 151);
 }
