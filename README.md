@@ -1,4 +1,4 @@
-This is an update to the "Rock Paper Scissors" game. the update will add a UI to the splash page. The user will be able to play the game through buttons, with results be displayed on the splash page as well.
+This is an update to the "Rock Paper Scissors" game. the update will add an UI to the splash page. The user will be able to play the game through buttons, with results be displayed on the splash page as well.
 -----------
 This is the The Odin Project's project: "Rock Paper Scissors" in their Foundations Course.
 I will write the pseudocode here for accountability. 
